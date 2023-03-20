@@ -1,7 +1,7 @@
 <head>
     <meta name="google-site-verification" content="YWmR0QQAyWyx7pUHkMzhyJMMrUCHh2ZmnAeOYE2Sbz0" />
   </head>
-<h1 align="center">Hi 👋, I'm Kamrul</h1>
+<h1 align="center">Hi 👋, I'm Kamrul Hossain</h1>
 <!--<h3 align="center">A frontend developer from BANGLADESH</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamrullab&label=Profile%20views&color=0e75b6&style=flat" alt="EliteKamrul" /> </p>
