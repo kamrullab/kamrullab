@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Digital+Innovator;AI+Automation+Expert;Cybersecurity+Specialist;System+Administrator;Author+%26+Educator;Ethical+Hacker;Penetration+Tester" alt="Typing SVG" />
 
 
-### 🚀 Cybersecurity Expert & AI Automation Specialist or Digital Innovator from Bangladesh 🇧🇩
+###  Cybersecurity Expert & AI Automation Specialist or Digital Innovator from Bangladesh 🇧🇩
 
 
 <img src="https://komarev.com/ghpvc/?username=kamrullab&label=Profile%20views&color=6366f1&style=for-the-badge" alt="kamrullab" />
@@ -24,12 +24,12 @@
 - 👯 Looking to collaborate on **open source projects, security research, and innovative solutions**
 - 💬 Ask me about **web development, AI automation, cybersecurity, ethical hacking, and system administration**
 - 📍 Based in **Bangladesh** 🇧🇩 - Serving clients globally 🌍
-- 📧 Reach me at **kamrul@example.com**
+- 📧 Reach me at **Mr.Kamrul61@Gmail.com**
 - ⚡ Fun fact: **"Code is poetry written in logic, Security is the shield that protects it" ✨**
 - 🎯 **Mission**: Building secure, scalable, and intelligent digital solutions
 - 📚 **Author**: Published "AI Prompt Engineering (Bangla)" - A comprehensive guide
 - 🏆 **Expertise**: 50+ successful projects across web development, cybersecurity, and AI automation
-- 🔒 **Security Focus**: Specialized in penetration testing, vulnerability assessment, and secure coding practices
+- 🔒 **Security Focus**: Specializing in penetration testing, vulnerability assessment, and secure coding practices
 - 🤖 **AI Enthusiast**: Expert in prompt engineering, automation workflows, and intelligent chatbot development
 
 ---
@@ -238,7 +238,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/elitekamrul)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kamrulhossain.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kamrul.us)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamrul@example.com)
 [![Book](https://img.shields.io/badge/📚_My_Book-FF6B35?style=for-the-badge&logo=bookstack&logoColor=white)](https://kamrul.pages.dev/book/)
 
