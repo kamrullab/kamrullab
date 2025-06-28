@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<img src="https://kamrul.pages.dev/book/assets/images/book%20cover.png" alt="AI Prompt Engineering Book Cover" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+<img src="https://kamrul.pages.dev/book/images/book-cover.png" alt="AI Prompt Engineering Book Cover" width="200" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 
 ### **AI Prompt Engineering (Bangla)**
 *A complete guide to mastering prompt engineering with real-world examples and visuals*
