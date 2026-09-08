@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kamrul Hossain](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0891b2&height=230&section=header&text=KAMRUL%20HOSSAIN&fontSize=46&fontColor=f8fafc&fontAlignY=36&desc=SYSTEMS%20%2F%20SECURITY%20%2F%20AUTOMATION&descSize=16&descAlignY=56&animation=fadeIn)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:0e7490,100:7c3aed&height=240&section=header&text=KAMRUL%20HOSSAIN&fontSize=48&fontColor=f8fafc&fontAlignY=35&desc=SYSTEMS%20%2F%20SECURITY%20%2F%20AUTOMATION&descSize=17&descAlignY=55&animation=fadeIn" alt="Kamrul Hossain">
 
 [![Current focus](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Technical+Support+Engineer;Linux+and+Hosting+Administrator;Cloudflare+and+Web+Security;Infrastructure+and+AI+Automation)](https://git.io/typing-svg)
 
@@ -8,43 +8,65 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAMRUL_HOSSAIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
 [![Email](https://img.shields.io/badge/EMAIL-START_A_CONVERSATION-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mr.Kamrul61@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=kamrullab&label=PROFILE+VIEWS&color=0891b2&style=flat-square)
-![Followers](https://img.shields.io/github/followers/kamrullab?label=FOLLOWERS&style=flat-square&color=16a34a)
+<br><br>
 
-</div>
+![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkamrullab&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=0891b2&style=for-the-badge&cacheSeconds=60)
+![Stars](https://img.shields.io/github/stars/kamrullab?affiliations=OWNER&style=for-the-badge&color=16a34a)
+![Followers](https://img.shields.io/github/followers/kamrullab?style=for-the-badge&color=7c3aed)
+![Profile views](https://komarev.com/ghpvc/?username=kamrullab&label=PROFILE+VIEWS&color=dc2626&style=for-the-badge)
 
-## PROFILE
+<br><br>
 
-I am Kamrul Hossain, a technical support and system administration professional based in Bangladesh. I build, secure, troubleshoot, and automate digital infrastructure with a focus on reliability and clear operational outcomes.
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
-My work covers Linux servers, web hosting, cPanel and WHM, DNS, SSL, business email, Cloudflare, web security, application deployment, full-stack development, and AI-assisted automation. I also publish practical tools and technical guides for problems I encounter in real environments.
+<h2>PROFILE</h2>
 
-```text
-LOCATION      Bangladesh, UTC+06:00
-FOCUS         Technical support, systems, security, automation
-AVAILABLE     Remote roles, projects, and open-source collaboration
-WORK STYLE    Practical, security-minded, documented, maintainable
-```
+<p>
+Technical support and system administration professional based in Bangladesh.<br>
+I build, secure, troubleshoot, and automate reliable digital infrastructure.
+</p>
 
-## CORE CAPABILITIES
+<p>
+My work covers Linux servers, hosting operations, cPanel and WHM, DNS, SSL,<br>
+business email, Cloudflare, web security, deployments, development, and AI automation.
+</p>
 
-| SYSTEMS AND SUPPORT | SECURITY AND NETWORKING |
-| --- | --- |
-| Linux server administration | Cloudflare configuration and WAF rules |
-| cPanel, WHM, and hosting operations | DNS, SSL, domain, and network troubleshooting |
-| Monitoring, migration, and incident resolution | Vulnerability assessment and system hardening |
-| Business email and delivery troubleshooting | Secure deployment and access configuration |
+![Location](https://img.shields.io/badge/LOCATION-BANGLADESH-006A4E?style=for-the-badge)
+![Timezone](https://img.shields.io/badge/TIMEZONE-UTC%2B06%3A00-F42A41?style=for-the-badge)
+![Availability](https://img.shields.io/badge/STATUS-OPEN_TO_REMOTE_WORK-16A34A?style=for-the-badge)
 
-| DEVELOPMENT | AUTOMATION |
-| --- | --- |
-| Backend services, APIs, and databases | Python scripting and workflow automation |
-| Responsive web applications | AI-assisted tools and chatbots |
-| Deployment and production support | Notification and reporting integrations |
-| Maintainable technical documentation | Repetitive task and process optimization |
+<br><br>
 
-## TECHNOLOGY
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0891b2,100:16a34a&height=4" alt="Section divider">
 
-<div align="center">
+<h2>CORE CAPABILITIES</h2>
+
+<h3>SYSTEMS AND SUPPORT</h3>
+
+![Linux administration](https://img.shields.io/badge/LINUX_ADMINISTRATION-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Hosting operations](https://img.shields.io/badge/HOSTING_OPERATIONS-172554?style=for-the-badge&logo=cpanel&logoColor=FF6C2C)
+![Incident resolution](https://img.shields.io/badge/INCIDENT_RESOLUTION-7F1D1D?style=for-the-badge&logo=opsgenie&logoColor=white)
+![Email delivery](https://img.shields.io/badge/EMAIL_DELIVERY-1E3A8A?style=for-the-badge&logo=gmail&logoColor=white)
+
+<h3>SECURITY AND NETWORKING</h3>
+
+![Cloudflare WAF](https://img.shields.io/badge/CLOUDFLARE_WAF-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DNS and SSL](https://img.shields.io/badge/DNS_AND_SSL-0E7490?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![System hardening](https://img.shields.io/badge/SYSTEM_HARDENING-166534?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Network troubleshooting](https://img.shields.io/badge/NETWORK_TROUBLESHOOTING-581C87?style=for-the-badge&logo=wireshark&logoColor=white)
+
+<h3>DEVELOPMENT AND AUTOMATION</h3>
+
+![Backend and API](https://img.shields.io/badge/BACKEND_AND_APIS-111827?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
+![Python automation](https://img.shields.io/badge/PYTHON_AUTOMATION-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI workflows](https://img.shields.io/badge/AI_WORKFLOWS-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Production deployment](https://img.shields.io/badge/PRODUCTION_DEPLOYMENT-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+<br><br>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:7c3aed,100:0891b2&height=4" alt="Section divider">
+
+<h2>TECHNOLOGY</h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -55,6 +77,8 @@ WORK STYLE    Practical, security-minded, documented, maintainable
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
+<br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -64,72 +88,92 @@ WORK STYLE    Practical, security-minded, documented, maintainable
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
+<br><br>
 
-## LIVE GITHUB OVERVIEW
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
 
-These cards are generated from my GitHub data and refreshed automatically every six hours.
+<h2>LIVE GITHUB DATA</h2>
 
-<div align="center">
+<p>
+The cards below request current public data directly from GitHub.<br>
+The hosting layer may briefly cache responses to keep the service reliable.
+</p>
 
-<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub profile details">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamrullab&theme=github_dark" alt="Live GitHub profile details">
 
-<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories by language">
-<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Commits by language">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamrullab&theme=github_dark" alt="Live repositories by language">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamrullab&theme=github_dark" alt="Live commits by language">
 
-<img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics">
-<img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time in Bangladesh time">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamrullab&theme=github_dark" alt="Live GitHub statistics">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamrullab&theme=github_dark&utcOffset=6" alt="Live productive time">
 
-</div>
+[![Open contribution calendar](https://img.shields.io/badge/OPEN_LIVE_CONTRIBUTION_CALENDAR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=overview)
 
-## FEATURED PROJECTS
+<br><br>
 
-| PROJECT | PURPOSE | STACK |
-| --- | --- | --- |
-| [Cloudflare Security Rules](https://github.com/kamrullab/cloudflare-security-rules) | A practical WAF setup guide covering bot protection, country rules, and challenge actions. | Cloudflare, WAF, Security |
-| [WHMCS Discord Alert Pro](https://github.com/kamrullab/whmcs-discord-alert-pro) | Detailed WHMCS notifications for Discord with responder and IP information. | PHP, WHMCS, Discord |
-| [Windows Auto Update Manager](https://github.com/kamrullab/Windows-Auto-Update-Manager) | A simple utility for controlling automatic updates on Windows systems. | Windows, Batch, Automation |
-| [Zoho Mail Guide](https://github.com/kamrullab/Zoho) | A step-by-step custom-domain setup guide for Zoho Mail. | Email, DNS, Zoho |
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0891b2,100:16a34a&height=4" alt="Section divider">
 
-<div align="center">
+<h2>FEATURED WORK</h2>
 
-[![View all repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=repositories)
+<h3>Cloudflare Security Rules</h3>
+<p>Practical WAF configuration for bot protection, country rules, and challenge actions.</p>
+[![Open project](https://img.shields.io/badge/OPEN_PROJECT-CLOUDFLARE_SECURITY_RULES-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/kamrullab/cloudflare-security-rules)
 
-</div>
+<h3>WHMCS Discord Alert Pro</h3>
+<p>Detailed WHMCS notifications for Discord with responder and IP information.</p>
+[![Open project](https://img.shields.io/badge/OPEN_PROJECT-WHMCS_DISCORD_ALERT_PRO-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/kamrullab/whmcs-discord-alert-pro)
 
-## PUBLISHED BOOK
+<h3>Windows Auto Update Manager</h3>
+<p>A focused utility for controlling automatic updates on Windows systems.</p>
+[![Open project](https://img.shields.io/badge/OPEN_PROJECT-WINDOWS_UPDATE_MANAGER-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/kamrullab/Windows-Auto-Update-Manager)
 
-<table>
-  <tr>
-    <td width="190" align="center">
-      <a href="https://kamrul.pages.dev/book/">
-        <img src="https://kamrul.pages.dev/book-files/images/book-cover.png" width="150" alt="AI Prompt Engineering Bangla book cover">
-      </a>
-    </td>
-    <td>
-      <strong>AI Prompt Engineering, Bangla Edition</strong><br><br>
-      A practical Bangla-language guide to prompt-engineering methods, reusable patterns, best practices, and real-world examples for working effectively with AI tools.<br><br>
-      <a href="https://kamrul.pages.dev/book/"><strong>Read the book</strong></a>
-    </td>
-  </tr>
-</table>
+<h3>Zoho Mail Guide</h3>
+<p>Step-by-step custom-domain setup guidance for Zoho Mail.</p>
+[![Open project](https://img.shields.io/badge/OPEN_PROJECT-ZOHO_MAIL_GUIDE-C8202B?style=for-the-badge&logo=zoho&logoColor=white)](https://github.com/kamrullab/Zoho)
 
-## SERVICES
+<br><br>
 
-| AREA | DELIVERY |
-| --- | --- |
-| Technical support | Troubleshooting, customer support, remote assistance, and incident resolution |
-| System administration | Linux, hosting, cPanel and WHM, monitoring, migrations, and maintenance |
-| Domains and email | DNS, SSL, business email, SMTP, deliverability, Google Workspace, and Zoho Mail |
-| Web security | Cloudflare, WAF rules, vulnerability assessment, hardening, and secure configuration |
-| Automation | Python scripts, AI workflows, chatbots, notifications, and process automation |
-| Web development | Responsive applications, backend integrations, APIs, databases, and deployment |
+[![View all repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-16A34A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=repositories)
 
-## CONTACT
+<br><br>
 
-For technical support, infrastructure, security, automation, open-source work, or a useful product idea, contact me through any of the channels below.
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:7c3aed,100:0891b2&height=4" alt="Section divider">
 
-<div align="center">
+<h2>PUBLISHED BOOK</h2>
+
+<a href="https://kamrul.pages.dev/book/">
+  <img src="https://kamrul.pages.dev/book-files/images/book-cover.png" width="170" alt="AI Prompt Engineering Bangla book cover">
+</a>
+
+<h3>AI Prompt Engineering, Bangla Edition</h3>
+
+<p>
+A practical Bangla-language guide to prompt-engineering methods, reusable patterns,<br>
+best practices, and real-world examples for working effectively with AI tools.
+</p>
+
+[![Read the book](https://img.shields.io/badge/READ_THE_BOOK-AI_PROMPT_ENGINEERING-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white)](https://kamrul.pages.dev/book/)
+
+<br><br>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
+
+<h2>SERVICES</h2>
+
+![Technical support](https://img.shields.io/badge/TECHNICAL_SUPPORT-TROUBLESHOOTING_AND_INCIDENTS-0891B2?style=for-the-badge)
+![System administration](https://img.shields.io/badge/SYSTEM_ADMINISTRATION-LINUX_AND_HOSTING-16A34A?style=for-the-badge)
+![Domains and email](https://img.shields.io/badge/DOMAINS_AND_EMAIL-DNS_SSL_AND_DELIVERY-DC2626?style=for-the-badge)
+![Web security](https://img.shields.io/badge/WEB_SECURITY-CLOUDFLARE_AND_HARDENING-F97316?style=for-the-badge)
+![Automation](https://img.shields.io/badge/AUTOMATION-PYTHON_AND_AI_WORKFLOWS-7C3AED?style=for-the-badge)
+![Web development](https://img.shields.io/badge/WEB_DEVELOPMENT-APPS_APIS_AND_DEPLOYMENT-2563EB?style=for-the-badge)
+
+<br><br>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0891b2,100:16a34a&height=4" alt="Section divider">
+
+<h2>CONTACT</h2>
+
+<p>Available for remote roles, technical projects, and open-source collaboration.</p>
 
 [![Website](https://img.shields.io/badge/WEBSITE-KAMRUL.US-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kamrul.us)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAMRULOFFICIAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
@@ -139,8 +183,8 @@ For technical support, infrastructure, security, automation, open-source work, o
 
 <br><br>
 
-SECURE SYSTEMS. CLEAR SOLUTIONS. CONTINUOUS IMPROVEMENT.
+<strong>SECURE SYSTEMS. CLEAR SOLUTIONS. CONTINUOUS IMPROVEMENT.</strong>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0891b2&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:172554,70:0e7490,100:7c3aed&height=130&section=footer" alt="Footer">
 
 </div>
