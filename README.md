@@ -98,12 +98,12 @@ My work spans Linux servers, web hosting, DNS and email systems, Cloudflare, cyb
 
 ## GitHub activity
 
+My latest repositories and contribution calendar are always available directly on GitHub—without relying on third-party stat cards that can break or hit rate limits.
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamrullab&show_icons=true&theme=transparent&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=2563eb" alt="Kamrul's GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrullab&layout=compact&theme=transparent&hide_border=true&title_color=38bdf8&text_color=94a3b8" alt="Kamrul's most used languages">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrullab&bg_color=00000000&color=38bdf8&line=2563eb&point=06b6d4&area=true&hide_border=true" alt="Kamrul's contribution graph">
+[![View contributions](https://img.shields.io/badge/View-Contribution_Activity-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=overview)
+[![Browse repositories](https://img.shields.io/badge/Browse-All_Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=repositories)
 
 </div>
 
