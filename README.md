@@ -1,35 +1,50 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=220&section=header&text=Kamrul%20Hossain&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Technical%20Support%20%7C%20System%20Administration%20%7C%20Cybersecurity%20%7C%20Automation&descSize=16&descAlignY=56&animation=fadeIn)
+![Kamrul Hossain](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0891b2&height=230&section=header&text=KAMRUL%20HOSSAIN&fontSize=46&fontColor=f8fafc&fontAlignY=36&desc=SYSTEMS%20%2F%20SECURITY%20%2F%20AUTOMATION&descSize=16&descAlignY=56&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+secure+and+reliable+systems;Automating+repetitive+workflows;Solving+infrastructure+problems;Sharing+practical+technical+knowledge)](https://git.io/typing-svg)
+[![Current focus](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=760&lines=Technical+Support+Engineer;Linux+and+Hosting+Administrator;Cloudflare+and+Web+Security;Infrastructure+and+AI+Automation)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kamrul.us-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kamrul.us)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kamrul_Hossain-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mr.Kamrul61@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-KAMRUL.US-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kamrul.us)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAMRUL_HOSSAIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
+[![Email](https://img.shields.io/badge/EMAIL-START_A_CONVERSATION-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mr.Kamrul61@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=kamrullab&label=Profile+views&color=0ea5e9&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/kamrullab?label=Followers&style=flat-square&color=2563eb)
+![Profile views](https://komarev.com/ghpvc/?username=kamrullab&label=PROFILE+VIEWS&color=0891b2&style=flat-square)
+![Followers](https://img.shields.io/github/followers/kamrullab?label=FOLLOWERS&style=flat-square&color=16a34a)
 
 </div>
 
-## Hello! 👋
+## PROFILE
 
-I'm **Kamrul Hossain**, a technical support and system administration professional from Bangladesh. I enjoy turning difficult infrastructure, security, and automation problems into solutions that are dependable, understandable, and easy to maintain.
+I am Kamrul Hossain, a technical support and system administration professional based in Bangladesh. I build, secure, troubleshoot, and automate digital infrastructure with a focus on reliability and clear operational outcomes.
 
-My work spans Linux servers, web hosting, DNS and email systems, Cloudflare, cybersecurity, full-stack development, and AI-assisted automation. I also share practical tools and guides so other people can solve real-world technical problems faster.
+My work covers Linux servers, web hosting, cPanel and WHM, DNS, SSL, business email, Cloudflare, web security, application deployment, full-stack development, and AI-assisted automation. I also publish practical tools and technical guides for problems I encounter in real environments.
 
-- 🔭 Building secure web, infrastructure, and automation solutions
-- 🌱 Exploring cloud security, advanced penetration testing, and machine learning
-- 🤝 Open to technical support, system administration, infrastructure, and open-source opportunities
-- 💬 Ask me about Linux, cPanel/WHM, DNS, SSL, email delivery, Cloudflare, or workflow automation
-- 🌏 Based in Bangladesh and available for remote collaboration
+```text
+LOCATION      Bangladesh, UTC+06:00
+FOCUS         Technical support, systems, security, automation
+AVAILABLE     Remote roles, projects, and open-source collaboration
+WORK STYLE    Practical, security-minded, documented, maintainable
+```
 
-## What I work with
+## CORE CAPABILITIES
+
+| SYSTEMS AND SUPPORT | SECURITY AND NETWORKING |
+| --- | --- |
+| Linux server administration | Cloudflare configuration and WAF rules |
+| cPanel, WHM, and hosting operations | DNS, SSL, domain, and network troubleshooting |
+| Monitoring, migration, and incident resolution | Vulnerability assessment and system hardening |
+| Business email and delivery troubleshooting | Secure deployment and access configuration |
+
+| DEVELOPMENT | AUTOMATION |
+| --- | --- |
+| Backend services, APIs, and databases | Python scripting and workflow automation |
+| Responsive web applications | AI-assisted tools and chatbots |
+| Deployment and production support | Notification and reporting integrations |
+| Maintainable technical documentation | Repetitive task and process optimization |
+
+## TECHNOLOGY
 
 <div align="center">
-
-### Systems, cloud & security
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -39,8 +54,6 @@ My work spans Linux servers, web hosting, DNS and email systems, Cloudflare, cyb
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-### Development & automation
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
@@ -53,76 +66,81 @@ My work spans Linux servers, web hosting, DNS and email systems, Cloudflare, cyb
 
 </div>
 
-## Featured work
+## LIVE GITHUB OVERVIEW
 
-| Project | What it does | Focus |
-| --- | --- | --- |
-| [Cloudflare Security Rules](https://github.com/kamrullab/cloudflare-security-rules) | A practical Cloudflare WAF setup guide covering bot protection, country rules, and challenge actions. | Cloudflare · WAF · Security |
-| [WHMCS Discord Alert Pro](https://github.com/kamrullab/whmcs-discord-alert-pro) | Sends detailed WHMCS notifications to Discord with responder and IP information. | PHP · WHMCS · Discord |
-| [Windows Auto Update Manager](https://github.com/kamrullab/Windows-Auto-Update-Manager) | A simple utility for controlling automatic updates on Windows. | Windows · Batch · Automation |
-| [Zoho Mail Guide](https://github.com/kamrullab/Zoho) | Step-by-step guidance for activating Zoho Mail on a custom domain. | Email · DNS · Zoho |
+These cards are generated from my GitHub data and refreshed automatically every six hours.
 
 <div align="center">
 
-[![Explore my repositories](https://img.shields.io/badge/Explore_All_Repositories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=repositories)
+<img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="GitHub profile details">
+
+<img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repositories by language">
+<img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Commits by language">
+
+<img src="profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub statistics">
+<img src="profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="Productive time in Bangladesh time">
 
 </div>
 
-## AI Prompt Engineering — Bangla edition 📘
+## FEATURED PROJECTS
+
+| PROJECT | PURPOSE | STACK |
+| --- | --- | --- |
+| [Cloudflare Security Rules](https://github.com/kamrullab/cloudflare-security-rules) | A practical WAF setup guide covering bot protection, country rules, and challenge actions. | Cloudflare, WAF, Security |
+| [WHMCS Discord Alert Pro](https://github.com/kamrullab/whmcs-discord-alert-pro) | Detailed WHMCS notifications for Discord with responder and IP information. | PHP, WHMCS, Discord |
+| [Windows Auto Update Manager](https://github.com/kamrullab/Windows-Auto-Update-Manager) | A simple utility for controlling automatic updates on Windows systems. | Windows, Batch, Automation |
+| [Zoho Mail Guide](https://github.com/kamrullab/Zoho) | A step-by-step custom-domain setup guide for Zoho Mail. | Email, DNS, Zoho |
+
+<div align="center">
+
+[![View all repositories](https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=repositories)
+
+</div>
+
+## PUBLISHED BOOK
 
 <table>
   <tr>
-    <td width="180" align="center">
+    <td width="190" align="center">
       <a href="https://kamrul.pages.dev/book/">
         <img src="https://kamrul.pages.dev/book-files/images/book-cover.png" width="150" alt="AI Prompt Engineering Bangla book cover">
       </a>
     </td>
     <td>
-      <strong>A practical guide to better AI conversations</strong><br><br>
-      My Bangla-language book introduces prompt-engineering techniques, useful patterns, best practices, and real-world examples for working effectively with AI tools.<br><br>
-      <a href="https://kamrul.pages.dev/book/"><strong>Read the book →</strong></a>
+      <strong>AI Prompt Engineering, Bangla Edition</strong><br><br>
+      A practical Bangla-language guide to prompt-engineering methods, reusable patterns, best practices, and real-world examples for working effectively with AI tools.<br><br>
+      <a href="https://kamrul.pages.dev/book/"><strong>Read the book</strong></a>
     </td>
   </tr>
 </table>
 
-## How I can help
+## SERVICES
 
-| Area | Capabilities |
+| AREA | DELIVERY |
 | --- | --- |
-| 🖥️ Technical support | Troubleshooting, customer support, remote assistance, and incident resolution |
-| 🐧 System administration | Linux servers, cPanel/WHM, hosting, monitoring, migrations, and maintenance |
-| 🌐 Domains & email | DNS, SSL, business email, SMTP, deliverability, Google Workspace, and Zoho Mail |
-| 🛡️ Web security | Cloudflare, WAF rules, vulnerability assessment, hardening, and secure configuration |
-| ⚙️ Automation | Python scripts, AI workflows, chatbots, notifications, and repetitive-task automation |
-| 💻 Web development | Responsive applications, backend integrations, APIs, databases, and deployment |
+| Technical support | Troubleshooting, customer support, remote assistance, and incident resolution |
+| System administration | Linux, hosting, cPanel and WHM, monitoring, migrations, and maintenance |
+| Domains and email | DNS, SSL, business email, SMTP, deliverability, Google Workspace, and Zoho Mail |
+| Web security | Cloudflare, WAF rules, vulnerability assessment, hardening, and secure configuration |
+| Automation | Python scripts, AI workflows, chatbots, notifications, and process automation |
+| Web development | Responsive applications, backend integrations, APIs, databases, and deployment |
 
-## GitHub activity
+## CONTACT
 
-My latest repositories and contribution calendar are always available directly on GitHub—without relying on third-party stat cards that can break or hit rate limits.
-
-<div align="center">
-
-[![View contributions](https://img.shields.io/badge/View-Contribution_Activity-2563eb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=overview)
-[![Browse repositories](https://img.shields.io/badge/Browse-All_Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=repositories)
-
-</div>
-
-## Let's connect
-
-I'm always happy to discuss technical support, infrastructure, security, automation, open-source collaboration, or a useful idea worth building.
+For technical support, infrastructure, security, automation, open-source work, or a useful product idea, contact me through any of the channels below.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-kamrul.us-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kamrul.us)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kamrulofficial-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
-[![X](https://img.shields.io/badge/X-elitekamrul-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elitekamrul)
-[![Facebook](https://img.shields.io/badge/Facebook-elitekamrul-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/elitekamrul)
-[![Email](https://img.shields.io/badge/Email-Mr.Kamrul61%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mr.Kamrul61@gmail.com)
+[![Website](https://img.shields.io/badge/WEBSITE-KAMRUL.US-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kamrul.us)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAMRULOFFICIAL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
+[![X](https://img.shields.io/badge/X-ELITEKAMRUL-111827?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elitekamrul)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-ELITEKAMRUL-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/elitekamrul)
+[![Email](https://img.shields.io/badge/EMAIL-MR.KAMRUL61%40GMAIL.COM-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mr.Kamrul61@gmail.com)
 
-<br>
+<br><br>
 
-> “Code is poetry written in logic; security is the shield that protects it.”
+SECURE SYSTEMS. CLEAR SOLUTIONS. CONTINUOUS IMPROVEMENT.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:172554,100:0891b2&height=120&section=footer)
 
 </div>
