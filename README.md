@@ -117,19 +117,19 @@ The hosting layer may briefly cache responses to keep the service reliable.
 
 <h3>Cloudflare Security Rules</h3>
 <p>Practical WAF configuration for bot protection, country rules, and challenge actions.</p>
-[![Open project](https://img.shields.io/badge/OPEN_PROJECT-CLOUDFLARE_SECURITY_RULES-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/kamrullab/cloudflare-security-rules)
+<a href="https://github.com/kamrullab/cloudflare-security-rules"><img src="https://img.shields.io/badge/OPEN_PROJECT-CLOUDFLARE_SECURITY_RULES-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Open Cloudflare Security Rules"></a>
 
 <h3>WHMCS Discord Alert Pro</h3>
 <p>Detailed WHMCS notifications for Discord with responder and IP information.</p>
-[![Open project](https://img.shields.io/badge/OPEN_PROJECT-WHMCS_DISCORD_ALERT_PRO-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/kamrullab/whmcs-discord-alert-pro)
+<a href="https://github.com/kamrullab/whmcs-discord-alert-pro"><img src="https://img.shields.io/badge/OPEN_PROJECT-WHMCS_DISCORD_ALERT_PRO-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Open WHMCS Discord Alert Pro"></a>
 
 <h3>Windows Auto Update Manager</h3>
 <p>A focused utility for controlling automatic updates on Windows systems.</p>
-[![Open project](https://img.shields.io/badge/OPEN_PROJECT-WINDOWS_UPDATE_MANAGER-0078D4?style=for-the-badge&logo=windows11&logoColor=white)](https://github.com/kamrullab/Windows-Auto-Update-Manager)
+<a href="https://github.com/kamrullab/Windows-Auto-Update-Manager"><img src="https://img.shields.io/badge/OPEN_PROJECT-WINDOWS_UPDATE_MANAGER-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Open Windows Auto Update Manager"></a>
 
 <h3>Zoho Mail Guide</h3>
 <p>Step-by-step custom-domain setup guidance for Zoho Mail.</p>
-[![Open project](https://img.shields.io/badge/OPEN_PROJECT-ZOHO_MAIL_GUIDE-C8202B?style=for-the-badge&logo=zoho&logoColor=white)](https://github.com/kamrullab/Zoho)
+<a href="https://github.com/kamrullab/Zoho"><img src="https://img.shields.io/badge/OPEN_PROJECT-ZOHO_MAIL_GUIDE-C8202B?style=for-the-badge&logo=zoho&logoColor=white" alt="Open Zoho Mail Guide"></a>
 
 <br><br>
 
