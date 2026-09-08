@@ -105,7 +105,6 @@ Each card animates its title, rows, labels, chart segments, and bars in sequence
 </p>
 
 <p>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamrullab&theme=github_dark&animation=sequence&duration=4&hide_logo=true" alt="Animated live GitHub statistics">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamrullab&theme=github_dark&utcOffset=6&animation=sequence&duration=4" alt="Animated live productive time">
 </p>
 
