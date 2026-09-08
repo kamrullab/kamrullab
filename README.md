@@ -95,17 +95,25 @@ business email, Cloudflare, web security, deployments, development, and AI autom
 <h2>LIVE GITHUB DATA</h2>
 
 <p>
-Animated cards loaded automatically from current public GitHub data.<br>
-Live counters above refresh independently for repositories, stars, followers, and views.
+Live cards loaded automatically from current public GitHub data.<br>
+Each card animates its title, rows, labels, chart segments, and bars in sequence.
 </p>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamrullab&theme=github_dark&animation=rgb-soft&duration=10" alt="Animated live GitHub profile details">
+<h3>REPOSITORIES BY LANGUAGE</h3>
 
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamrullab&theme=github_dark&animation=rgb-soft&duration=10" alt="Animated live repositories by language">
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamrullab&theme=github_dark&animation=rgb-soft&duration=10" alt="Animated live commits by language">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamrullab&theme=github_dark&animation=sequence&duration=4" alt="Animated live repositories by language">
 
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamrullab&theme=github_dark&animation=rgb-soft&duration=10" alt="Animated live GitHub statistics">
-<img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamrullab&theme=github_dark&utcOffset=6&animation=rgb-soft&duration=10" alt="Animated live productive time">
+<h3>COMMITS BY LANGUAGE</h3>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamrullab&theme=github_dark&animation=sequence&duration=4" alt="Animated live commits by language">
+
+<h3>ACCOUNT STATISTICS</h3>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamrullab&theme=github_dark&animation=sequence&duration=4&hide_logo=true" alt="Animated live GitHub statistics">
+
+<h3>COMMIT ACTIVITY BY HOUR</h3>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamrullab&theme=github_dark&utcOffset=6&animation=sequence&duration=4" alt="Animated live productive time">
 
 [![Open contribution calendar](https://img.shields.io/badge/OPEN_LIVE_CONTRIBUTION_CALENDAR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamrullab?tab=overview)
 
