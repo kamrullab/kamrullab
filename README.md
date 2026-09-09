@@ -10,10 +10,18 @@
 
 <br><br>
 
+<img width="58%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=2" alt="Contact group separator">
+
+<br><br>
+
 ![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkamrullab&query=%24.public_repos&label=PUBLIC%20REPOSITORIES&color=0891b2&style=for-the-badge&cacheSeconds=60)
 ![Stars](https://img.shields.io/github/stars/kamrullab?affiliations=OWNER&style=for-the-badge&color=16a34a)
 ![Followers](https://img.shields.io/github/followers/kamrullab?style=for-the-badge&color=7c3aed)
 ![Profile views](https://komarev.com/ghpvc/?username=kamrullab&label=PROFILE+VIEWS&color=dc2626&style=for-the-badge)
+
+<br><br>
+
+<img width="58%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:16a34a,100:0891b2&height=2" alt="Counter group separator">
 
 <br><br>
 
