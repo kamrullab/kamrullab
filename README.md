@@ -66,7 +66,7 @@ business email, Cloudflare, web security, deployments, development, and AI autom
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:7c3aed,100:0891b2&height=4" alt="Section divider">
 
-<h2>TECHNOLOGY</h2>
+<h2>TECH STACK</h2>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111827)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -87,6 +87,45 @@ business email, Cloudflare, web security, deployments, development, and AI autom
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<br><br>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0891b2,100:16a34a&height=4" alt="Section divider">
+
+<h2>DEVELOPMENT</h2>
+
+<p>Building practical applications, integrations, tools, and automation for real operational needs.</p>
+
+![Frontend development](https://img.shields.io/badge/FRONTEND-RESPONSIVE_WEB_APPLICATIONS-0EA5E9?style=for-the-badge)
+![Backend development](https://img.shields.io/badge/BACKEND-APIS_AND_SERVICES-7C3AED?style=for-the-badge)
+![Database development](https://img.shields.io/badge/DATABASE-DESIGN_AND_INTEGRATION-16A34A?style=for-the-badge)
+![Automation development](https://img.shields.io/badge/AUTOMATION-SCRIPTS_AND_WORKFLOWS-F97316?style=for-the-badge)
+![Security development](https://img.shields.io/badge/SECURITY-TOOLS_AND_HARDENING-DC2626?style=for-the-badge)
+![Deployment](https://img.shields.io/badge/DEPLOYMENT-CLOUD_AND_PRODUCTION-2563EB?style=for-the-badge)
+
+<br><br>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:16a34a,50:7c3aed,100:0891b2&height=4" alt="Section divider">
+
+<h2>OTHER EXPERTISE</h2>
+
+![Technical support](https://img.shields.io/badge/TECHNICAL_SUPPORT-CUSTOMER_AND_REMOTE_SUPPORT-0891B2?style=for-the-badge)
+![Email systems](https://img.shields.io/badge/EMAIL_SYSTEMS-SMTP_DNS_AND_DELIVERY-DC2626?style=for-the-badge)
+![Data analysis](https://img.shields.io/badge/DATA_ANALYSIS-REPORTING_AND_INSIGHTS-F59E0B?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/DOCUMENTATION-GUIDES_AND_KNOWLEDGE_BASES-16A34A?style=for-the-badge)
+![Prompt engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-AI_WORKFLOWS-7C3AED?style=for-the-badge)
+![Troubleshooting](https://img.shields.io/badge/TROUBLESHOOTING-ROOT_CAUSE_AND_RESOLUTION-2563EB?style=for-the-badge)
 
 <br><br>
 
