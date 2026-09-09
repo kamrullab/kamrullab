@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-KAMRUL_HOSSAIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamrulofficial)
 [![Email](https://img.shields.io/badge/EMAIL-START_A_CONVERSATION-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Mr.Kamrul61@gmail.com)
 
-<br><br>
+<br>
 
 <strong>OPEN TO REMOTE SUPPORT, REMOTE JOBS, AND FREELANCE PROJECTS</strong><br>
 <img width="58%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=2" alt="Contact group separator">
@@ -20,7 +20,7 @@
 ![Followers](https://img.shields.io/github/followers/kamrullab?style=for-the-badge&color=7c3aed)
 ![Profile views](https://komarev.com/ghpvc/?username=kamrullab&label=PROFILE+VIEWS&color=dc2626&style=for-the-badge)
 
-<br><br>
+<br>
 
 <strong>AVAILABLE FOR FULL-TIME, PART-TIME, CONTRACT, AND PROJECT-BASED WORK</strong><br>
 <img width="58%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:16a34a,100:0891b2&height=2" alt="Counter group separator">
