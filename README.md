@@ -99,6 +99,17 @@ business email, Cloudflare, web security, deployments, development, and AI autom
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<br>
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windowsserver&logoColor=white)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Zoho Mail](https://img.shields.io/badge/Zoho_Mail-C8202B?style=for-the-badge&logo=zoho&logoColor=white)
+![WHMCS](https://img.shields.io/badge/WHMCS-2455A4?style=for-the-badge&logo=whmcs&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
 <br><br>
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0891b2,100:16a34a&height=4" alt="Section divider">
@@ -126,6 +137,85 @@ business email, Cloudflare, web security, deployments, development, and AI autom
 ![Documentation](https://img.shields.io/badge/DOCUMENTATION-GUIDES_AND_KNOWLEDGE_BASES-16A34A?style=for-the-badge)
 ![Prompt engineering](https://img.shields.io/badge/PROMPT_ENGINEERING-AI_WORKFLOWS-7C3AED?style=for-the-badge)
 ![Troubleshooting](https://img.shields.io/badge/TROUBLESHOOTING-ROOT_CAUSE_AND_RESOLUTION-2563EB?style=for-the-badge)
+
+<br>
+
+![Bengali](https://img.shields.io/badge/BENGALI-NATIVE-006A4E?style=for-the-badge)
+![English](https://img.shields.io/badge/ENGLISH-PROFICIENT-0E7490?style=for-the-badge)
+
+<br><br>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=4" alt="Section divider">
+
+<h2>PROFESSIONAL EXPERIENCE</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>Technical Support Engineer</h3>
+<strong>Cloudify LTD</strong><br>
+Remote, London, UK | January 2025 - Present
+<br><br>
+Hosting infrastructure, server optimization, Cloudflare, DNS, SSL, email services, migrations, monitoring, and security.
+</td>
+<td width="50%" valign="top">
+<h3>Technical Support Engineer</h3>
+<strong>Satisfyhost / Zorn Technologies</strong><br>
+Remote | July 2025 - February 2026
+<br><br>
+Ticket and live-chat support for WHMCS, cPanel and WHM, DNS, SSL, email, migrations, hosting setup, and knowledge-base documentation.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>Customer Technical Support Engineer</h3>
+<strong>LyteHosting LLC</strong><br>
+Remote, Boulder, Colorado, US | August 2024 - November 2025
+<br><br>
+Server optimization, DNS, SSL, mail systems, monitoring, performance improvements, and customer self-service documentation.
+</td>
+<td width="50%" valign="top">
+<h3>Junior Assistant System Engineer</h3>
+<strong>IncomIT Solution Ltd</strong><br>
+Dhaka | November 2022 - December 2023
+<br><br>
+Linux and server administration, domain hosting, WHM and WHMCS, network support, hardware and software setup, and troubleshooting.
+</td>
+</tr>
+</table>
+
+<p>
+Earlier experience: Support Engineer at IncomIT Solution Ltd, IT Intern at CSL-IT,<br>
+and freelance English-Bengali translator.
+</p>
+
+<br>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:0891b2,100:16a34a&height=4" alt="Section divider">
+
+<h2>EDUCATION AND PROFESSIONAL TRAINING</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>BSc in Computer Science and Engineering</h3>
+<strong>Dhaka International University</strong><br>
+Ongoing
+</td>
+<td width="50%" valign="top">
+<h3>Diploma in Computer Engineering</h3>
+<strong>Institute of Computer Science and Technology</strong><br>
+BTEB | 2021 | CGPA 3.67 out of 4.00
+</td>
+</tr>
+</table>
+
+![CCNA](https://img.shields.io/badge/CCNA-TRAINING-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![MTCNA](https://img.shields.io/badge/MTCNA-TRAINING-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/GOOGLE_WORKSPACE-ADMINISTRATION-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/MICROSOFT_365-ADMINISTRATION-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/CYBERSECURITY-PROFESSIONAL_TRAINING-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Computer Hardware](https://img.shields.io/badge/COMPUTER_HARDWARE-PROFESSIONAL_TRAINING-16A34A?style=for-the-badge)
 
 <br><br>
 
