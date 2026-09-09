@@ -10,6 +10,10 @@
 
 <br><br>
 
+<strong>AVAILABLE FOR REMOTE SUPPORT, INFRASTRUCTURE, SECURITY, AND AUTOMATION</strong>
+
+<br><br>
+
 <img width="58%" height="2" src="https://capsule-render.vercel.app/api?type=rect&color=0:0891b2,50:16a34a,100:7c3aed&height=2" alt="Contact group separator">
 
 <br><br>
@@ -18,6 +22,11 @@
 ![Stars](https://img.shields.io/github/stars/kamrullab?affiliations=OWNER&style=for-the-badge&color=16a34a)
 ![Followers](https://img.shields.io/github/followers/kamrullab?style=for-the-badge&color=7c3aed)
 ![Profile views](https://komarev.com/ghpvc/?username=kamrullab&label=PROFILE+VIEWS&color=dc2626&style=for-the-badge)
+
+<br><br>
+
+<strong>LIVE PUBLIC GITHUB COUNTERS</strong><br>
+<sub>Repository, star, follower, and profile-view data refresh automatically.</sub>
 
 <br><br>
 
